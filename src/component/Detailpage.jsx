@@ -19,7 +19,7 @@ const DetailPage = () => {
 
     return (
         <div>
-            <h1>Player Details</h1>
+            <h1>Player Details more</h1>
             <div>
                 <p><strong>Name:</strong> {filteredData.name}</p>
                 <p><strong>Number:</strong> {filteredData.number}</p>
